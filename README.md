@@ -59,7 +59,7 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattar740&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M7-TROJAN&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=mattar740&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mattar740&style=for-the-badge">
