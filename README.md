@@ -1,5 +1,4 @@
 
-<img width="300" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <h3 align="center">
   Welcome to Mahmoud Mohamed's profile!
@@ -11,11 +10,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Developer and of course a problem solver
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at "sooon" to see some of the projects I've worked on.
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+</p>
+
+
+- 🏢 I'm a passionate Software Developer with a knack for problem-solving.
+- 👨‍💻 As a Computer Science student, I'm always learning and exploring new technologies to enhance my skills.
+- 💬 Feel free to ask me about my experience with .NET, JavaScript, or anything related to web development.
+- 🌐 Check out my [portfolio](#) to see some of the exciting projects I've worked on.
 
 
 ### Connect with Me
@@ -29,13 +32,13 @@
 
 #### Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![LINQ](https://img.shields.io/badge/-LINQ-82329E?style=flat)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![API](https://img.shields.io/badge/-API-2C3E50?style=flat)
 ![MVC](https://img.shields.io/badge/-MVC-3498DB?style=flat&logo=asp.net&logoColor=white)
-![LINQ](https://img.shields.io/badge/-LINQ-82329E?style=flat)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 #### Web Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
