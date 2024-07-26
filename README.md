@@ -30,11 +30,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-#### Languages & Frameworks
+#### Programming Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![LINQ](https://img.shields.io/badge/-LINQ-82329E?style=flat)
 ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Dapper](https://img.shields.io/badge/-Dapper-1C2833?style=flat&logo=nuget&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![API](https://img.shields.io/badge/-API-2C3E50?style=flat)
