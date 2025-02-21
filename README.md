@@ -18,7 +18,7 @@
 - 🏢 I'm a passionate Software Developer with a knack for problem-solving.
 - 👨‍💻 As a Computer Science student, I'm always learning and exploring new technologies to enhance my skills.
 - 💬 Feel free to ask me about my experience with .NET, JavaScript, or anything related to web development.
-- 🌐 Check out my [portfolio](#) to see some of the exciting projects I've worked on.
+- 🌐 Check out my [portfolio](https://m7-trojan.github.io/Mahmoud-Mohammad/) to see some of the exciting projects I've worked on.
 
 
 ### Connect with Me
