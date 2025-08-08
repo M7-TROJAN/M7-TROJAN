@@ -92,7 +92,7 @@ HTML/CSS ███████████████████████�
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Survey Basket](https://github.com/M7-TROJAN/Survey-Management-System)
+### 📊 [Survey Basket](https://https://github.com/M7-TROJAN/Survey-Management-System)
 **RESTful Survey Management API**
 
 🎯 **ASP.NET Core Web API** | **Clean Architecture** | **JWT**
@@ -105,8 +105,8 @@ HTML/CSS ███████████████████████�
 - 🏗️ Clean architecture pattern
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/M7-TROJAN/SurveyBasket?style=for-the-badge&color=yellow"/>
-  <img src="https://img.shields.io/github/forks/M7-TROJAN/SurveyBasket?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/M7-TROJAN/Survey-Management-System?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/M7-TROJAN/Survey-Management-System?style=for-the-badge&color=blue"/>
 </div>
 
 </td>
@@ -122,7 +122,7 @@ HTML/CSS ███████████████████████�
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Problems_Solved-400+-FF6B6B?style=for-the-badge&logo=codechef"/>
 <br><b>Competitive Programming</b>
-<br><sub>HackerRank & Codewars</sub>
+<br><sub><a href="https://github.com/M7-TROJAN/Problem-Solving">HackerRank & Codewars</a></sub>  
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/CS50x-Harvard-4ECDC4?style=for-the-badge&logo=harvard"/>
