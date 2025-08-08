@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Tomorrow's+Software;Crafting+Clean+%26+Scalable+Solutions;Passionate+Problem+Solver" alt="Typing Animation"/>
 </div>
 
+<br><br>
+
 <!-- Profile Bio -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
