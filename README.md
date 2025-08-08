@@ -1,70 +1,68 @@
-
-
-<h3 align="center">
-  Welcome to Mahmoud Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
+<h1 align="center">Hi there, I'm Mahmoud Mohamed 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-<p align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+  <a href="https://github.com/M7-TROJAN"><img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Developer;Full-stack%20Web%20Developer;Problem%20Solver;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=4CAF50&vCenter=true&size=22"></a>
 </p>
-
-
-- 🏢 I'm a passionate Software Developer with a knack for problem-solving.
-- 👨‍💻 As a Computer Science student, I'm always learning and exploring new technologies to enhance my skills.
-- 💬 Feel free to ask me about my experience with .NET, JavaScript, or anything related to web development.
-- 🌐 Check out my [portfolio](https://m7-trojan.github.io/TROJAN-Portfolio/) to see some of the exciting projects I've worked on.
-
-
-### Connect with Me
-
-<a href="https://linkedin.com/in/mahmoud-mohamed-abd" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.link/nx3m8s" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="https://t.me/mattar74" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-
-### 🛠 &nbsp;Tech Stack
-
-#### Programming Languages & Frameworks
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![LINQ](https://img.shields.io/badge/-LINQ-82329E?style=flat)
-![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Dapper](https://img.shields.io/badge/-Dapper-1C2833?style=flat&logo=nuget&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![API](https://img.shields.io/badge/-API-2C3E50?style=flat)
-![MVC](https://img.shields.io/badge/-MVC-3498DB?style=flat&logo=asp.net&logoColor=white)
-
-#### Web Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
-#### Development Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
-#### Other Technologies
-![C Programming](https://img.shields.io/badge/-C%20-00599C?style=flat&logo=c&logoColor=white)
-![C++ Programming](https://img.shields.io/badge/-C%2B%2B%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)
-
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M7-TROJAN&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=mattar740&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mattar740&style=for-the-badge">
-</a>
+## 🚀 About Me  
+- 🎯 **.NET Developer** with a strong academic background and hands-on experience in full-stack development.  
+- 💡 Passionate about **clean code**, modern tools, and building real-world software solutions.  
+- 📚 Always learning and improving my skills through **projects**, **certifications**, and problem-solving.  
+- 🌐 Check out my **[Portfolio Website](https://m7-trojan.github.io/TROJAN-Portfolio/)**.  
+
+---
+
+## 🏆 Achievements & Certifications
+- **400+ coding problems solved** on platforms like HackerRank & Codewars.  
+- **Foundational C# – FreeCodeCamp** – [View Certificate](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)  
+- **CS50x – Harvard** – [View Certificate](https://certificates.cs50.io/c0e68d5d-f4a0-43d5-924d-221dc9ac5d0c.pdf?size=letter)  
+
+---
+
+## 💼 Featured Projects  
+
+### 📚 [LitraLand](https://github.com/M7-TROJAN/LitraLand)  
+Full-stack **Library Management & Community Platform** using ASP.NET Core MVC.  
+Features: Book lending, notifications (email/WhatsApp), external login, analytics dashboards.  
+
+### 📊 [Survey Basket](https://github.com/M7-TROJAN/SurveyBasket)  
+RESTful API survey system built with **ASP.NET Core Web API**.  
+Includes: JWT authentication, Microsoft Identity, Hangfire, Serilog, and clean architecture.  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks:**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Web & Tools:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📫 Connect with Me  
+<a href="https://linkedin.com/in/mahmoud-mohamed-abd" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.link/nx3m8s" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://t.me/mattar74" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7-TROJAN&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mattar740&style=for-the-badge" alt="Profile views"/>
+</p>
