@@ -1,14 +1,4 @@
 <!-- Heade<!-- Profile Bio -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-  
-  <h3>💫 About Me</h3>
-  <p><em>A passionate software engineer who turns ideas into elegant, scalable solutions</em></p>
-  
-  **🎯 Current Focus:** Full-Stack Development with .NET & Modern Web Technologies<br>
-  **🌱 Learning:** Advanced Architecture Patterns & Cloud Technologies<br>
-  **⚡ Fun fact:** I believe every bug is just a feature in disguise!
-</div>>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mahmoud%20Mohamed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20.NET%20Developer%20%7C%20Clean%20Code%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 </p>
@@ -20,15 +10,15 @@
 
 <!-- Profile Bio -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
   
-  <h3>� About Me</h3>
+  <h3>💫 About Me</h3>
   <p><em>A passionate software engineer who turns ideas into elegant, scalable solutions</em></p>
   
   **🎯 Current Focus:** Full-Stack Development with .NET & Modern Web Technologies<br>
   **🌱 Learning:** Advanced Architecture Patterns & Cloud Technologies<br>
   **⚡ Fun fact:** I believe every bug is just a feature in disguise!
-</div>
+</div>>
 
 <!-- Quick Links -->
 <div align="center">
