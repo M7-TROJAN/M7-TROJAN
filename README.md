@@ -101,7 +101,7 @@ HTML/CSS ███████████████████████�
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Survey Basket](https://github.com/M7-TROJAN/SurveyBasket)
+### 📊 [Survey Basket](https://github.com/M7-TROJAN/Survey-Management-System)
 **RESTful Survey Management API**
 
 🎯 **ASP.NET Core Web API** | **Clean Architecture** | **JWT**
