@@ -47,7 +47,7 @@
 </div>
 
 <details>
-<summary><b>� Complete Tech Stack</b></summary>
+<summary><b>Complete Tech Stack</b></summary>
 
 **Languages:**
 ```text
@@ -66,7 +66,7 @@ HTML/CSS ███████████████████████�
 </details>
 
 <!-- Featured Projects -->
-## � Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
